@@ -1,0 +1,4 @@
+1. Open the current folder in VS code
+2. Open terminal type -->	npm install
+3. type -->			node app.js
+4. open the console localhost
